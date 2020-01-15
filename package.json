@@ -1,5 +1,5 @@
 {
-  "name": "np",git
+  "name": "np",
   "version": "1.0.1",
   "description": "is an easy and simple solution for defining a browser",
   "main": "dist/checkbrowser.js",
